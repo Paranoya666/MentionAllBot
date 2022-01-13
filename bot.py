@@ -25,7 +25,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('🇦🇿 XDTÖ Resmi', 'https://t.me/DTOresmi'),
+        Button.url('🇦🇿 DTÖ Resmi', 'https://t.me/DTOresmi'),
         Button.url('⚜️ Sahib', 'https://t.me/Vusaldeveloper')
       ]
     )
