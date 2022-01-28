@@ -33,7 +33,7 @@ async def start(event):
 
 @client.on(events.NewMessage(pattern="^/help$"))
 async def help(event):
-  helptext = "**Botun menyusuna xoş gelmisiz**\n\nKamandalar: /all\n__Bu komandanı Tağ etmek sebebi ile işlede bilersiniz.__\n`Meselen: /all Sabahınız xeyir!`\n__Bu komandanı kimese yanıt olaraq istifade edin ve yaxud tağ sebebini yazın botu dayandırmaq /cancel__."
+  helptext = "**Botun menyusuna xoş gelmisiz**\n\nKamandalar: /all\n__Bu komandanı Tağ etmek sebebi ile işlede bilersiniz.__\n`Meselen: /all Sabahınız xeyir!`\n__Bu komandanı kimese yanıt olaraq istifade edin ve yaxud tağ sebebini yazın botu dayandırmaq /𝖢𝖺𝗇𝖼𝖾𝗅__."
   await event.reply(
     helptext,
     link_preview=False,
