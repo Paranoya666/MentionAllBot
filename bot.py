@@ -25,7 +25,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('🇦🇿 Grupumuz', 'https://t.me/xaoskabus'),
+        Button.url('🇦🇿 Xaos Fed', 'https://t.me/@X_FEDD'),
         Button.url('⚜️ Sahib', 'https://t.me/Mr_KABUS_13')
       ]
     )
@@ -39,7 +39,7 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('🇦🇿 Grupumuz', 'https://t.me/xaoskabus'),
+        Button.url('🇦🇿 Xaos Fed', 'https://t.me/X_Fedd'),
         Button.url('⚜️ Sahib', 'https://t.me/Mr_KABUS_13')
       ]
     )
