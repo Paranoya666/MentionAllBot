@@ -25,8 +25,8 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('🇦🇿 Xaos Fed', 'https://t.me/Xxaosresmi'),
-        Button.url('⚜️ Sahib', 'https://t.me/Mr_KABUS_13')
+        Button.url('🇦🇿 IMP Resmi', 'https://t.me/IMPRESMI'),
+        Button.url('⚜️ Developer', 'https://t.me/Mr_KABUS_13')
       ]
     )
   )
@@ -39,8 +39,8 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('🇦🇿 Xaos Fed', 'https://t.me/Xxaosresmi'),
-        Button.url('⚜️ Sahib', 'https://t.me/Mr_KABUS_13')
+        Button.url('🇦🇿 IMP Resmi', 'https://t.me/Xxaosresmi'),
+        Button.url('⚜️ Developer', 'https://t.me/Mr_KABUS_13')
       ]
     )
   )
